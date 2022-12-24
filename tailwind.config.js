@@ -6,8 +6,8 @@ module.exports = {
     "./components/**/*.{js,ts,jsx,tsx}"],
   theme: {
     fontFamily: {
-      'sans': ["Calibre","Inter","San Francisco","SF Pro Text"], 
-      'mono': ["SF Mono","Fira Code","Fira Mono","Roboto Mono"]
+      'sans': ["roboto", "sans-serif"], 
+      'mono': []
     },
     extend: {
     },
